@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>10478</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>5482</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10596</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10597</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10724</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10725</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10743</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>8079</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10762</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10763</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10780</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>11951</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10798</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10801</string>
+                </dict>
+                <key>Locked Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>10601</string>
+                </dict>
+                <key>Locked Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>10605</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>13244</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
